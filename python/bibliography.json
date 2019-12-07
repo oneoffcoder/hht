@@ -340,13 +340,6 @@
        "title":"Relics reveal the mystery of Dian Kingdom"
     },
     {
-      "id":"39",
-      "key":"2019:zzz",
-      "year": 2019,
-      "type": "misc",
-      "title":"Find Out"
-    },
-    {
        "id":"40",
        "key":"2007:beijing_yelang",
        "year": 2007,
@@ -436,13 +429,6 @@
        "publisher": "University of Chicago",
        "type": "book",
        "title":"Mother of Writing"
-    },
-    {
-      "id":"50",
-      "key":"2019:aaa",
-      "year": 2019,
-      "type": "misc",
-      "title":"TODO FINDOUT"
     },
     {
        "id":"51",
