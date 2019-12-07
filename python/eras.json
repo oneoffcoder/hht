@@ -1,0 +1,974 @@
+[
+    {
+      "era":{
+        "start":-5000,
+        "stop":-3000
+      },
+      "keywords":[
+        {
+          "word":"yangshao",
+          "score":0.595575643329334
+        },
+        {
+          "word":"culture miaodigou",
+          "score":0.42395903700365956
+        },
+        {
+          "word":"culture majiayao",
+          "score":0.42395903700365956
+        },
+        {
+          "word":"potteries",
+          "score":0.3905146773476661
+        },
+        {
+          "word":"liang zhu",
+          "score":0.33998242024748243
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-3000,
+        "stop":-2200
+      },
+      "keywords":[
+        {
+          "word":"zhiyou",
+          "score":0.5062289918546017
+        },
+        {
+          "word":"ci",
+          "score":0.4758652191019237
+        },
+        {
+          "word":"banshan",
+          "score":0.42395903700365956
+        },
+        {
+          "word":"culture machang",
+          "score":0.42395903700365956
+        },
+        {
+          "word":"henan",
+          "score":0.3046038373328012
+        },
+        {
+          "word":"culture",
+          "score":0.30015739128546093
+        },
+        {
+          "word":"hmong culture",
+          "score":0.2958740615024383
+        },
+        {
+          "word":"august ones",
+          "score":0.26125625405652425
+        },
+        {
+          "word":"central china",
+          "score":0.2507262757480723
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-2200,
+        "stop":-800
+      },
+      "keywords":[
+        {
+          "word":"sanwei",
+          "score":0.48419084845479293
+        },
+        {
+          "word":"chao tsuab",
+          "score":0.43734280550402904
+        },
+        {
+          "word":"chao xyam",
+          "score":0.42733510849854994
+        },
+        {
+          "word":"heaven",
+          "score":0.4220286485703774
+        },
+        {
+          "word":"dongting",
+          "score":0.3042599824143862
+        },
+        {
+          "word":"miao",
+          "score":0.2995311899252708
+        },
+        {
+          "word":"throne",
+          "score":0.26653004906811073
+        },
+        {
+          "word":"shun",
+          "score":0.1925760646666586
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-800,
+        "stop":-699
+      },
+      "keywords":[
+        {
+          "word":"autumn period",
+          "score":0.498790565267607
+        },
+        {
+          "word":"chu",
+          "score":0.41258460124651264
+        },
+        {
+          "word":"king",
+          "score":0.25665387190955785
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-699,
+        "stop":-500
+      },
+      "keywords":[
+        {
+          "word":"autumn chu",
+          "score":0.5088371993840305
+        },
+        {
+          "word":"battle",
+          "score":0.4665397899241244
+        },
+        {
+          "word":"chu attack",
+          "score":0.44507838814088985
+        },
+        {
+          "word":"zheng wei",
+          "score":0.440676809783772
+        },
+        {
+          "word":"attack huang",
+          "score":0.43412367368031485
+        },
+        {
+          "word":"autumn man",
+          "score":0.43024873626302407
+        },
+        {
+          "word":"attack xu",
+          "score":0.4293835203921138
+        },
+        {
+          "word":"cai",
+          "score":0.42766377085430995
+        },
+        {
+          "word":"attack chu",
+          "score":0.42133460224497904
+        },
+        {
+          "word":"jin",
+          "score":0.41951313252109873
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-500,
+        "stop":-221
+      },
+      "keywords":[
+        {
+          "word":"han fell",
+          "score":0.5707914080206679
+        },
+        {
+          "word":"wei fell",
+          "score":0.5699238862536652
+        },
+        {
+          "word":"state period",
+          "score":0.5520167917848213
+        },
+        {
+          "word":"yan fell",
+          "score":0.5501565776889961
+        },
+        {
+          "word":"zhao fell",
+          "score":0.5471072997085146
+        },
+        {
+          "word":"alliance qin",
+          "score":0.4053858874847161
+        },
+        {
+          "word":"queen",
+          "score":0.4010566305385489
+        },
+        {
+          "word":"wei",
+          "score":0.3897990114078374
+        },
+        {
+          "word":"chu",
+          "score":0.35183312697091235
+        },
+        {
+          "word":"han",
+          "score":0.3171374723809677
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":-221,
+        "stop":0
+      },
+      "keywords":[
+        {
+          "word":"yelang",
+          "score":0.6205124638810959
+        },
+        {
+          "word":"qi fell",
+          "score":0.573847704963401
+        },
+        {
+          "word":"chao cheej",
+          "score":0.4455120379401271
+        },
+        {
+          "word":"xi han",
+          "score":0.40215623248227333
+        },
+        {
+          "word":"dong han",
+          "score":0.40165333079603693
+        },
+        {
+          "word":"bang",
+          "score":0.31583221185184823
+        },
+        {
+          "word":"state",
+          "score":0.30731606692241314
+        },
+        {
+          "word":"across empire",
+          "score":0.251835253903431
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1,
+        "stop":618
+      },
+      "keywords":[
+        {
+          "word":"wei",
+          "score":1.0
+        },
+        {
+          "word":"shu",
+          "score":1.0
+        },
+        {
+          "word":"wu",
+          "score":1.0
+        },
+        {
+          "word":"qi",
+          "score":1.0
+        },
+        {
+          "word":"liang",
+          "score":1.0
+        },
+        {
+          "word":"chen",
+          "score":1.0
+        },
+        {
+          "word":"northern qi",
+          "score":0.7266044761065232
+        },
+        {
+          "word":"northern zhou",
+          "score":0.7251661677781533
+        },
+        {
+          "word":"northern wei",
+          "score":0.7186878117137357
+        },
+        {
+          "word":"xin chao",
+          "score":0.7010376625299476
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":618,
+        "stop":907
+      },
+      "keywords":[
+        {
+          "word":"zhang bo",
+          "score":0.3307581313361814
+        },
+        {
+          "word":"zhang bo",
+          "score":0.2937191034976409
+        },
+        {
+          "word":"areas metallurgy",
+          "score":0.2523690258518429
+        },
+        {
+          "word":"yin",
+          "score":0.23673938391179145
+        },
+        {
+          "word":"talk zhang",
+          "score":0.2329518564293698
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":907,
+        "stop":960
+      },
+      "keywords":[
+        {
+          "word":"found khitan",
+          "score":0.41886213857453297
+        },
+        {
+          "word":"shiguo",
+          "score":0.38320026762593784
+        },
+        {
+          "word":"song ye",
+          "score":0.3513001513128232
+        },
+        {
+          "word":"emperor kai",
+          "score":0.3094845018286078
+        },
+        {
+          "word":"lu",
+          "score":0.28423640949673246
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":960,
+        "stop":1200
+      },
+      "keywords":[
+        {
+          "word":"chao xoom",
+          "score":0.4521959209117144
+        },
+        {
+          "word":"found jurchen",
+          "score":0.43289350880221045
+        },
+        {
+          "word":"chao",
+          "score":0.43251843521188593
+        },
+        {
+          "word":"chao",
+          "score":0.4259186680143312
+        },
+        {
+          "word":"yaj",
+          "score":0.35731376830369266
+        },
+        {
+          "word":"ling",
+          "score":0.34866534865619225
+        },
+        {
+          "word":"change",
+          "score":0.34781315877792873
+        },
+        {
+          "word":"chao",
+          "score":0.33943462346075787
+        },
+        {
+          "word":"song",
+          "score":0.3385129135125459
+        },
+        {
+          "word":"song emperor",
+          "score":0.29979150742928884
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1200,
+        "stop":1368
+      },
+      "keywords":[
+        {
+          "word":"attack ying",
+          "score":0.35799127410568127
+        },
+        {
+          "word":"wu",
+          "score":0.34845352187323136
+        },
+        {
+          "word":"fourth",
+          "score":0.334032908722017
+        },
+        {
+          "word":"wu",
+          "score":0.3296239118810374
+        },
+        {
+          "word":"yuan",
+          "score":0.3197434298225569
+        },
+        {
+          "word":"xi",
+          "score":0.3150294592316162
+        },
+        {
+          "word":"tian ban",
+          "score":0.2833362538864165
+        },
+        {
+          "word":"call ntawv",
+          "score":0.28068371786916735
+        },
+        {
+          "word":"china yuan",
+          "score":0.2805184574176095
+        },
+        {
+          "word":"city numerous",
+          "score":0.26841592565599737
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1368,
+        "stop":1600
+      },
+      "keywords":[
+        {
+          "word":"xian capture",
+          "score":0.44583127084942453
+        },
+        {
+          "word":"force wear",
+          "score":0.41358095521261656
+        },
+        {
+          "word":"li",
+          "score":0.40639526044545593
+        },
+        {
+          "word":"enemy",
+          "score":0.3791641840062196
+        },
+        {
+          "word":"li",
+          "score":0.3773888332881346
+        },
+        {
+          "word":"campaign exterminate",
+          "score":0.372067787396585
+        },
+        {
+          "word":"qing",
+          "score":0.35427505363439865
+        },
+        {
+          "word":"soldier catch",
+          "score":0.3460593400037473
+        },
+        {
+          "word":"miao hmoob",
+          "score":0.34495825410585
+        },
+        {
+          "word":"bao capture",
+          "score":0.33607979875213606
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1600,
+        "stop":1700
+      },
+      "keywords":[
+        {
+          "word":"control guizhou",
+          "score":0.41456136326187326
+        },
+        {
+          "word":"wall",
+          "score":0.3930961695447173
+        },
+        {
+          "word":"die natural",
+          "score":0.38547693048778936
+        },
+        {
+          "word":"authority yunnan",
+          "score":0.32031952921143386
+        },
+        {
+          "word":"qing",
+          "score":0.29614680044444047
+        },
+        {
+          "word":"chinese general",
+          "score":0.2743790379645052
+        },
+        {
+          "word":"considerable",
+          "score":0.25296800602949615
+        },
+        {
+          "word":"sangui",
+          "score":0.2460981071420008
+        },
+        {
+          "word":"mien people",
+          "score":0.2365581751254857
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1700,
+        "stop":1800
+      },
+      "keywords":[
+        {
+          "word":"hmong fight",
+          "score":0.3821134014268453
+        },
+        {
+          "word":"tu",
+          "score":0.34161835125754375
+        },
+        {
+          "word":"side hmongs",
+          "score":0.3100968673874802
+        },
+        {
+          "word":"qing",
+          "score":0.2527672206671059
+        },
+        {
+          "word":"hmong",
+          "score":0.20795384064051411
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1800,
+        "stop":1900
+      },
+      "keywords":[
+        {
+          "word":"boxer",
+          "score":0.6501776370378818
+        },
+        {
+          "word":"take zhengyaun",
+          "score":0.5625565373891224
+        },
+        {
+          "word":"kuanyi take",
+          "score":0.49439645427162576
+        },
+        {
+          "word":"dujiang",
+          "score":0.47320199429121923
+        },
+        {
+          "word":"suiyang",
+          "score":0.4412168414237287
+        },
+        {
+          "word":"chinese retake",
+          "score":0.43700231170998594
+        },
+        {
+          "word":"chinese xiaoshung",
+          "score":0.4312057594686162
+        },
+        {
+          "word":"rebellion",
+          "score":0.4223950225848195
+        },
+        {
+          "word":"china begin",
+          "score":0.4157536420711145
+        },
+        {
+          "word":"capture leigongshan",
+          "score":0.412207150343901
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1900,
+        "stop":1918
+      },
+      "keywords":[
+        {
+          "word":"shikai",
+          "score":0.6214216339336995
+        },
+        {
+          "word":"sun",
+          "score":0.45773023117396405
+        },
+        {
+          "word":"system",
+          "score":0.4534407368272619
+        },
+        {
+          "word":"attack chan",
+          "score":0.39851871851229104
+        },
+        {
+          "word":"secretary lo",
+          "score":0.3930545642241152
+        },
+        {
+          "word":"chang release",
+          "score":0.3865429480429432
+        },
+        {
+          "word":"chang return",
+          "score":0.36786213600776874
+        },
+        {
+          "word":"followers report",
+          "score":0.362367341480683
+        },
+        {
+          "word":"alphabet hmong",
+          "score":0.35769350203663053
+        },
+        {
+          "word":"chang lin",
+          "score":0.35715841014437044
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1918,
+        "stop":1930
+      },
+      "keywords":[
+        {
+          "word":"chiang",
+          "score":0.5773502691896257
+        },
+        {
+          "word":"attack bien",
+          "score":0.46012344040179687
+        },
+        {
+          "word":"construction colonial",
+          "score":0.4141945471291575
+        },
+        {
+          "word":"gautier",
+          "score":0.4132981168480847
+        },
+        {
+          "word":"boast hmong",
+          "score":0.40768450236320997
+        },
+        {
+          "word":"cpt",
+          "score":0.3939568973415326
+        },
+        {
+          "word":"french take",
+          "score":0.38503953223730436
+        },
+        {
+          "word":"bounty hunters",
+          "score":0.38327464284100937
+        },
+        {
+          "word":"attack tai",
+          "score":0.3715562556768545
+        },
+        {
+          "word":"ger",
+          "score":0.36993759830638534
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1930,
+        "stop":1961
+      },
+      "keywords":[
+        {
+          "word":"korea",
+          "score":0.6327375437351367
+        },
+        {
+          "word":"mao zedong",
+          "score":0.5824348602539177
+        },
+        {
+          "word":"jfk elect",
+          "score":0.5261694431320668
+        },
+        {
+          "word":"gauthier return",
+          "score":0.5245376018212106
+        },
+        {
+          "word":"withdraw southeast",
+          "score":0.4704961904491148
+        },
+        {
+          "word":"niam",
+          "score":0.4511324785393033
+        },
+        {
+          "word":"exile",
+          "score":0.44510255307863594
+        },
+        {
+          "word":"president",
+          "score":0.42400962198787606
+        },
+        {
+          "word":"dwight",
+          "score":0.41791769157996295
+        },
+        {
+          "word":"pahawh",
+          "score":0.4114044428553401
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1961,
+        "stop":1976
+      },
+      "keywords":[
+        {
+          "word":"tom",
+          "score":0.6604581781367291
+        },
+        {
+          "word":"nixon elect",
+          "score":0.5623454274408513
+        },
+        {
+          "word":"lima",
+          "score":0.49909764441775395
+        },
+        {
+          "word":"air",
+          "score":0.4843478916710397
+        },
+        {
+          "word":"assasinated",
+          "score":0.48317934148263586
+        },
+        {
+          "word":"border close",
+          "score":0.4710785512542073
+        },
+        {
+          "word":"minh die",
+          "score":0.4620593871356982
+        },
+        {
+          "word":"evacuate thailand",
+          "score":0.4585867812107277
+        },
+        {
+          "word":"live montana",
+          "score":0.44420013536127684
+        },
+        {
+          "word":"agree bomb",
+          "score":0.4389952481245986
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1976,
+        "stop":1981
+      },
+      "keywords":[
+        {
+          "word":"carter elect",
+          "score":0.5361578285887467
+        },
+        {
+          "word":"reagan elect",
+          "score":0.5261694431320668
+        },
+        {
+          "word":"china invade",
+          "score":0.45219053740345927
+        },
+        {
+          "word":"ban vinai",
+          "score":0.433511168225151
+        },
+        {
+          "word":"afghanistan december",
+          "score":0.42975513437447566
+        },
+        {
+          "word":"american hostages",
+          "score":0.4145887163614261
+        },
+        {
+          "word":"country",
+          "score":0.40847468885852223
+        },
+        {
+          "word":"vongsavang die",
+          "score":0.4014271989315714
+        },
+        {
+          "word":"vatthana die",
+          "score":0.3663911306841975
+        },
+        {
+          "word":"carter explore",
+          "score":0.33996999018654694
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1981,
+        "stop":1991
+      },
+      "keywords":[
+        {
+          "word":"bush president",
+          "score":0.657342663893846
+        },
+        {
+          "word":"reagan reelect",
+          "score":0.487907983270652
+        },
+        {
+          "word":"day lo",
+          "score":0.4411722946143297
+        },
+        {
+          "word":"lpdr diminish",
+          "score":0.43362796175139
+        },
+        {
+          "word":"cbw",
+          "score":0.40847662750589303
+        },
+        {
+          "word":"begin repatriate",
+          "score":0.36428270249521677
+        },
+        {
+          "word":"begin broadcast",
+          "score":0.35019103091354425
+        },
+        {
+          "word":"major opium",
+          "score":0.3437600813928306
+        },
+        {
+          "word":"lpdr",
+          "score":0.3310648281802591
+        },
+        {
+          "word":"charter",
+          "score":0.33093423099890246
+        }
+      ]
+    },
+    {
+      "era":{
+        "start":1991,
+        "stop":2018
+      },
+      "keywords":[
+        {
+          "word":"hmong stop",
+          "score":0.567067024440632
+        },
+        {
+          "word":"kaysone die",
+          "score":0.5267070189330635
+        },
+        {
+          "word":"memorial",
+          "score":0.4566334009441533
+        },
+        {
+          "word":"usc",
+          "score":0.44263617182017506
+        },
+        {
+          "word":"tons",
+          "score":0.4250004690921183
+        },
+        {
+          "word":"affairs",
+          "score":0.4216553548512882
+        },
+        {
+          "word":"veterans",
+          "score":0.3922837100897633
+        },
+        {
+          "word":"aid laos",
+          "score":0.35229020355154894
+        },
+        {
+          "word":"lao veteran",
+          "score":0.33634513527985466
+        },
+        {
+          "word":"leader",
+          "score":0.32016957807709606
+        }
+      ]
+    }
+  ]

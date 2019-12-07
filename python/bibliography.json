@@ -1,0 +1,527 @@
+[
+    {
+       "id":"1",
+       "key":"2000:xiong",
+       "author": ["Y. Xiong"],
+       "year": 2000,
+       "publisher": "Hmong ABC",
+       "type": "misc",
+       "title":"Taug Txoj Lw Ntshav: Keeb Kwm Hmoob Nyob Suav Teb"
+    },
+    {
+       "id":"2",
+       "key":"1996:zhang",
+       "author": ["X. Zhang"],
+       "year": 1996,
+       "publisher": "CSU-Fresno",
+       "type": "misc",
+       "title":"All Hmong's Recognition the Basis and Characteristic"
+    },
+    {
+       "id":"3",
+       "key":"2001:staalman",
+       "author": ["C.R. Staalman"],
+       "year": 2001,
+       "url": "http://chrisstaalman.com/China/bronze.html",
+       "type": "misc",
+       "title":"What did Shang, Zhou and later societies in China do with bronze?"
+    },
+    {
+       "id":"4",
+       "key":"2006:yang",
+       "author": ["L. Yang"],
+       "year": 2006,
+       "publisher": "Asiapac Books Pte Ltd",
+       "type": "book",
+       "title":"Chinese History: Ancient China to 1911"
+    },
+    {
+       "id":"5",
+       "key":"2003:fu",
+       "author": ["C. Fu", "Y. N. Han", "G. Chay"],
+       "year": 2003,
+       "publisher": "Asiapac Books Pte Ltd",
+       "type": "book",
+       "title":"Gateway to Chinese Culture"
+    },
+    {
+       "id":"6",
+       "key":"2004:luo",
+       "author": ["J. Luo"],
+       "year": 2004,
+       "publisher": "University Press of America",
+       "type": "book",
+       "title":"Over A Cup Of Tea: An Introduction To Chinese Life And Culture"
+    },
+    {
+       "id":"7",
+       "key":"1999:riordan",
+       "author": ["J. Riordan", "R. Jones"],
+       "year": 1999,
+       "publisher": "Taylor & Francis",
+       "type": "book",
+       "title":"Sport and Physical Education in China"
+    },
+    {
+       "id":"8",
+       "key":"1993:bonnefoy",
+       "author": ["Y. Bonnefoy"],
+       "year": 1993,
+       "publisher": "University of Chicago Press",
+       "type": "book",
+       "title":"Asian Mythologies"
+    },
+    {
+       "id":"9",
+       "key":"2004:glahn",
+       "author": ["R. V. Glahn"],
+       "year": 2004,
+       "publisher": "University of California Press",
+       "type": "book",
+       "title":"The Sinister Way: The Divine and the Demonic in Chinese Religious Culture"
+    },
+    {
+       "id":"10",
+       "key":"2001:chen",
+       "author": ["W. Chen"],
+       "year": 2001,
+       "publisher": "Asiapac Books Pte Ltd",
+       "type": "book",
+       "title":"Chinese Bronzes: Ferocious Beauty"
+    },
+    {
+       "id":"11",
+       "key":"2005:lee",
+       "author": ["M. N. M. Lee"],
+       "year": 2005,
+       "publisher": "UW-Madison",
+       "type": "misc",
+       "title":"The Dream of the Hmong Kingdom: Resistance, Collaboration, and Legitimacy under French Colonialism (1893--1955)"
+    },
+    {
+       "id":"12",
+       "key":"1996:harrell",
+       "author": ["S. Harrell"],
+       "year": 1996,
+       "publisher": "University of Washington Press",
+       "type": "book",
+       "title":"Cultural Encounters on China's Ethnic Frontiers"
+    },
+    {
+       "id":"13",
+       "key":"1999:lowe",
+       "author": ["M. Lowe", "E. L. Shaughnessy"],
+       "year": 1999,
+       "publisher": "Cambridge University Press",
+       "type": "book",
+       "title":"The Cambridge History of Ancient China"
+    },
+    {
+       "id":"14",
+       "key":"1994:ames",
+       "author": ["R. T. Ames"],
+       "year": 1994,
+       "publisher": "SUNY Press",
+       "type": "book",
+       "title":"The Art of Rulership: A Study of Ancient Chinese Political Thought"
+    },
+    {
+       "id":"15",
+       "key":"2005:martin",
+       "author": ["W. A. P. Martin"],
+       "year": 2005,
+       "publisher": "Project Gutenberg EBook",
+       "type": "book",
+       "title":"The Awakening of China."
+    },
+    {
+       "id":"16",
+       "key":"1994:jenks",
+       "author": ["R. D. Jenks"],
+       "year": 1994,
+       "publisher": "University of Hawaii Press",
+       "type": "book",
+       "title":"Insurgency and Social Disorder in Guizhou"
+    },
+    {
+       "id":"17",
+       "key":"2002:ansari",
+       "author": ["S. M. R. Ansari"],
+       "year": 2002,
+       "publisher": "Springer",
+       "type": "book",
+       "title":"History of Oriental Astronomy"
+    },
+    {
+       "id":"18",
+       "key":"2007:poon",
+       "author": ["L. Poon"],
+       "year": 2007,
+       "url": "http://www-chaos.umd.edu/history/",
+       "type": "misc",
+       "title":"History of China"
+    },
+    {
+       "id":"19",
+       "key":"2007:wiki_chu",
+       "year": 2007,
+       "publisher": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/State_of_Chu",
+       "type": "misc",
+       "title":"State of Chu"
+    },
+    {
+       "id":"20",
+       "key":"2004:parker",
+       "author": ["E. H. Parker"],
+       "year": 2004,
+       "publisher": "Project Gutenberg EBook",
+       "type": "book",
+       "title":"Ancient China Simplified"
+    },
+    {
+       "id":"21",
+       "key":"2007:umass_warring",
+       "year": 2007,
+       "url": "http://www.umass.edu/wsp/results/states/chu/history/index.html",
+       "type": "misc",
+       "title":"Chu History. Warring States Project"
+    },
+    {
+       "id":"22",
+       "key":"2004:chappell",
+       "author": ["H. Chappell"],
+       "year": 2004,
+       "publisher": "Oxford University Press",
+       "type": "book",
+       "title":"Chinese Grammar: Synchronic and Diachronic Perspectives"
+    },
+    {
+       "id":"23",
+       "key":"1999:deng",
+       "author": ["G. Deng"],
+       "year": 1999,
+       "publisher": "Routledge",
+       "type": "book",
+       "title":"G. Deng. The Premodern Chinese Economy: Structural Equilibrium and Capitalist Sterility"
+    },
+    {
+       "id":"24",
+       "key":"1999:pigott",
+       "author": ["V. C. Pigott"],
+       "year": 1999,
+       "publisher": "UPenn Museum of Archaeology",
+       "type": "book",
+       "title":"The Archaeometallurgy of the Asian Old World"
+    },
+    {
+       "id":"25",
+       "key":"2007:wiki_springautumn",
+       "year": 2007,
+       "publisher": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/Spring_and_Autumn_Period",
+       "type": "misc",
+       "title":"Spring and Autumn Period"
+    },
+    {
+       "id":"26",
+       "key":"2004:gladney",
+       "author": ["D. C. Gladney"],
+       "year": 2004,
+       "publisher": "University of Chicago Press",
+       "type": "book",
+       "title":"Dislocating China: Muslims, Minorities, and Other Subaltern Subjects"
+    },
+    {
+       "id":"27",
+       "key":"2005:hardy",
+       "year": 2005,
+       "author": ["G. Hardy", "A. B. Kinney"],
+       "publisher": "Greenwood Press",
+       "type": "book",
+       "title":"The Establishment Of The Han Empire And Imperial China"
+    },
+    {
+       "id":"28",
+       "key":"1986:weinberger",
+       "author": ["E. Weinberger"],
+       "year": 1986,
+       "publisher": "New Directions Publishing",
+       "type": "book",
+       "title":"Works on Paper"
+    },
+    {
+       "id":"29",
+       "key":"1997:deng",
+       "author": ["G. Deng"],
+       "year": 1999,
+       "publisher": "Greenwood Press",
+       "type": "book",
+       "title":"Chinese Maritime Activities and Socioeconomic Development, C. 2100 B.C.-1900"
+    },
+    {
+       "id":"30",
+       "key":"2007:umass_chron",
+       "year": 2007,
+       "publisher": "University of Massachusetts",
+       "url": "http://www.umass.edu/wsp/results/states/chu/chronology/07c.html",
+       "type": "misc",
+       "title":"Chu Chronology, Warring States Project"
+    },
+    {
+       "id":"31",
+       "key":"2007:wiki_chengpu",
+       "year": 2007,
+       "publisher": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/Battle_of_Chengpu",
+       "type": "misc",
+       "title":"Battle of Chengpu"
+    },
+    {
+       "id":"32",
+       "key":"2007:ck_zhou",
+       "year": 2007,
+       "publisher": "China Knowledge",
+       "url": "http://www.chinaknowledge.de/History/Zhou/zhou-event.html",
+       "type": "misc",
+       "title":"An Outline of Western Zhou History"
+    },
+    {
+       "id":"33",
+       "key":"2007:indiana_war",
+       "year": 2007,
+       "publisher": "Indiana University",
+       "url": "http://www.indiana.edu/~g380/Zhanguo.pdf",
+       "type": "misc",
+       "title":"The Warring States Period"
+    },
+    {
+       "id":"34",
+       "key":"2000:peterson",
+       "author": ["B. B. Peterson"],
+       "editor": ["M. E. Sharpe"],
+       "year": 2000,
+       "type": "misc",
+       "title":"Notable Women of China: Shang Dynasty to the Early Twentieth"
+    },
+    {
+       "id":"35",
+       "key":"2004:lewis",
+       "author": ["C. M. Lewis"],
+       "year": 2004,
+       "publisher": "McGraw-Hill Professional",
+       "type": "book",
+       "title":"China: Its History and Culture"
+    },
+    {
+       "id":"36",
+       "key":"2007:chinaorg_seal",
+       "year": 2007,
+       "url": "http://www.china.org.cn/english/culture/230489.htm",
+       "type": "misc",
+       "title":"Seal of ancient king made public"
+    },
+    {
+       "id":"37",
+       "key":"2007:foreigner_yelang",
+       "year": 2007,
+       "publisher": "Foreigners in China",
+       "url": "http://www.foreignercn.com/index.php/action_viewnews_itemid_7842.html",
+       "type": "misc",
+       "title":"The Conceit of The King of Yelang"
+    },
+    {
+       "id":"38",
+       "key":"2007:guangdong_dian",
+       "year": 2007,
+       "publisher": "News Guangdong",
+       "url": "http://www.newsgd.com/culture/culturenews/200503100054.htm",
+       "type": "misc",
+       "title":"Relics reveal the mystery of Dian Kingdom"
+    },
+    {
+      "id":"39",
+      "key":"2019:zzz",
+      "year": 2019,
+      "type": "misc",
+      "title":"Find Out"
+    },
+    {
+       "id":"40",
+       "key":"2007:beijing_yelang",
+       "year": 2007,
+       "publisher": "Beijing This Month",
+       "url": "http://www.btmbeijing.com/contents/en/btm/2007-06/hidden/kingdom",
+       "type": "misc",
+       "title":"Hezhang County The Lost Kingdom"
+    },
+    {
+       "id":"41",
+       "key":"2007:peopledaily_yelang",
+       "year": 2007,
+       "publisher": "People Daily",
+       "url": "http://english.peopledaily.com.cn/200210/25/eng20021025_105631.shtml",
+       "type": "misc",
+       "title":"Chinese Archeologists Search for Clues on Lost Kingdom. People Daily"
+    },
+    {
+       "id":"42",
+       "key":"2007:poon_timeline",
+       "author": ["L. Poon"],
+       "year": 2007,
+       "publisher": "University of Maryland",
+       "url": "http://www-chaos.umd.edu/history/time_line.html",
+       "type": "misc",
+       "title":"History Timeline"
+    },
+    {
+       "id":"43",
+       "key":"2000:lf",
+       "year": 2000,
+       "publisher": "Lao Family",
+       "url": "http://www.laofamily.org/culture/hmongculture1.htm",
+       "type": "misc",
+       "title":"Hmong Culture"
+    },
+    {
+       "id":"44",
+       "key":"1997:wu",
+       "author": ["R. Z. Wu"],
+       "publisher": "SSP Makati",
+       "year": 1997,
+       "type": "book",
+       "title":"Haiv Hmoob Liv Xwm"
+    },
+    {
+       "id":"45",
+       "key":"2007:ck_liao",
+       "year": 2007,
+       "publisher": "China Knowledge",
+       "url": "http://www.chinaknowledge.de/History/Song/liao.html",
+       "type": "misc",
+       "title":"Chinese History---Liao Dynasty"
+    },
+    {
+       "id":"46",
+       "key":"2007:ck_song",
+       "year": 2007,
+       "publisher": "China Knowledge",
+       "url": "http://www.chinaknowledge.de/History/Song/song.html",
+       "type": "misc",
+       "title":"Chinese History---Song Dynasty"
+    },
+    {
+       "id":"47",
+       "key":"2007:ck_xixia",
+       "year": 2007,
+       "publisher": "China Knowledge",
+       "url": "http://www.chinaknowledge.de/History/Song/xixia.html",
+       "type": "misc",
+       "title":"Chinese History---Western Xia Dynasty"
+    },
+    {
+       "id":"48",
+       "key":"2007:ck_jin",
+       "year": 2007,
+       "publisher": "China Knowledge",
+       "url": "http://www.chinaknowledge.de/History/Song/jinn.html",
+       "type": "misc",
+       "title":"Chinese History---Jin Dynasty"
+    },
+    {
+       "id":"49",
+       "key":"1990:smalley",
+       "year": 1900,
+       "author": ["W. A. Smalley", "C. K. Vang", "G. Y. Yang"],
+       "publisher": "University of Chicago",
+       "type": "book",
+       "title":"Mother of Writing"
+    },
+    {
+      "id":"50",
+      "key":"2019:aaa",
+      "year": 2019,
+      "type": "misc",
+      "title":"TODO FINDOUT"
+    },
+    {
+       "id":"51",
+       "key":"2007:wiki_revolt",
+       "year": 2007,
+       "publisher": "Wikipedia",
+       "url": "http://en.wikipedia.org/wiki/Revolt_of_the_Three_Feudatories",
+       "type": "misc",
+       "title":"Revolt of the Three Feudatories"
+    },
+    {
+       "id":"52",
+       "key":"2006:hostetler",
+       "author": ["L. Hostetler", "D. M. Deal"],
+       "year": 2006,
+       "publisher": "University of Washington Press",
+       "type": "book",
+       "title":"The Art of Ethnography: A Chinese Miao Album"
+    },
+    {
+       "id":"53",
+       "key":"1978:fairbank",
+       "author": ["J. K. Fairbank"],
+       "year": 1978,
+       "publisher": "Cambridge University Press",
+       "type": "book",
+       "title":"The Cambridge History of China"
+    },
+    {
+       "id":"54",
+       "key":"2006:giles",
+       "author": ["H. A. Giles"],
+       "year": 2006,
+       "publisher": "Project Gutenberg EBook",
+       "type": "book",
+       "title":"China and the Manchus"
+    },
+    {
+       "id":"55",
+       "key":"1999:hamilton",
+       "author": ["J. Hamilton-Merritt"],
+       "year": 1999,
+       "publisher": "Indiana University Press",
+       "type": "book",
+       "title":"Tragic Mountains"
+    },
+    {
+       "id":"56",
+       "key":"2000:lee",
+       "author": ["G. Y. Lee"],
+       "year": 2000,
+       "url": "http://www.atrax.net.au/userdir/yeulee/index.htm",
+       "type": "misc",
+       "title":"Hmong History"
+    },
+    {
+       "id":"57",
+       "key":"2007:lyfoung",
+       "year": 2007,
+       "url": "http://www.lyfoung.com/albums_photos/article23.html?&widt_h=1280&heigh_t=800",
+       "type": "misc",
+       "title":"LyFoung Family Albums"
+    },
+    {
+       "id":"58",
+       "key":"2003:sun",
+       "author": ["B. Sun", "R. T. Ames"],
+       "year": 2003,
+       "publisher": "SUNY Press",
+       "type": "book",
+       "title":"Sun Bin: A Translation of the Classic Chinese Work of Philosophy and Strategy"
+    },
+    {
+       "id":"59",
+       "key":"2003:wang",
+       "author": ["R. Wang"],
+       "year": 2003,
+       "publisher": "Hackett Publishing",
+       "type": "book",
+       "title":"Images of Women in Chinese Thought and Culture "
+    }
+ ]

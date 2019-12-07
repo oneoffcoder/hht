@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hht.oneoffcoder.com/sitemap.xml

@@ -1,0 +1,39 @@
+1 to 618 AD
+===========
+
+Keywords
+--------
+
+* ``wei``
+* ``shu``
+* ``wu``
+* ``qi``
+* ``liang``
+* ``chen``
+* ``northern qi``
+* ``northern zhou``
+* ``northern wei``
+* ``xin chao``
+
+Events
+------
+
+* (8--23) Xin Chao
+* (220--265) Sanguo (Xab Kuj)
+* (220--265) Wei :cite:`2007:poon_timeline`
+* (221--263) Shu :cite:`2007:poon_timeline`
+* (229--280) Wu :cite:`2007:poon_timeline`
+* (265--419) Jin Chao (Ceem Tshoj)
+* (386--533) Northern Wei :cite:`2007:poon_timeline`
+* (400--900) A Hmong kingdom was established. This kingdom was a hereditary monarchy, organized into village and districts and men were allowed to 'vote' in political processes. The Song dynasty ended this kingdom and the Hmong returned to their nomadic way of life :cite:`2000:lf`. The area of this kingdom is said to be in the area of the Five Lakes region of Hubei and Hunan :cite:`2005:lee`.
+* (403--561) 158 years of frequent fighting occurred between the Hmongs and Chinese. It is said that every 4 years a major war occurred between the Hmongs and Chinese :cite:`2000:xiong`.
+* 420--589: Nanbei Chao
+* (420--478) Song (Xom Tshoj) :cite:`2007:poon_timeline`
+* (479--501) Qi :cite:`2007:poon_timeline`
+* (502--556) Liang :cite:`2007:poon_timeline`
+* (534--549) Eastern Wei :cite:`2007:poon_timeline`
+* (535--557) Western Wei :cite:`2007:poon_timeline`
+* (550--577) Northern Qi :cite:`2007:poon_timeline`
+* (557--588) Chen :cite:`2007:poon_timeline`
+* (557--588) Northern Zhou :cite:`2007:poon_timeline`
+* (581--619) Sui Chao (Xij Tshoj)
