@@ -1,5 +1,7 @@
 ![One-Off Coder Logo](logo.png "One-Off Coder")
 
+![CICD](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiaWxneWkxc3A1OXVSTUxram83V2tBdVN2VEQ2Qmp4S0RSZ3VLOHUwVTBNZE9MZWFZcW1BdVFPQlpyVHR2bDdUbVFDTnE0ZE1lVDBua2M5c0Y3QmRVc1I0PSIsIml2UGFyYW1ldGVyU3BlYyI6Ikc3YUNIMVhYZzRlcTlRYmQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=publish "CICD")
+
 # Hmong History Timeline
 
 Hmong history timeline project. The published site is at [http://hht.oneoffcoder.com](http://hht.oneoffcoder.com).
