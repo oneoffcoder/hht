@@ -1,0 +1,20 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: "3.8"
+    commands:
+      - apt-get -qq install pandoc -y
+      - pip install ipython sphinx sphinx_rtd_theme sphinxcontrib-bibtex sphinx-autobuild sphinx-sitemap nbsphinx -q
+  pre_build:
+    commands:
+      - python --version
+      - pip --version
+  build:
+    commands:
+      - make clean && make html
+  post_build:
+    commands:
+      - aws s3 sync build/html s3://hht.oneoffcoder.com --quiet
+      - echo Build completed on `date`
