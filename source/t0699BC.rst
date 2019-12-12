@@ -26,7 +26,6 @@ Events
 * ``7-659``: A man of Chu attacked Zheng :cite:`2007:umass_chron`.
 * ``8-659``: Lu, Qi, Song, Zheng, Cao, Zhu met at Cheng :cite:`2007:umass_chron`.
 * Winter, A man of Chu attacked Zheng :cite:`2007:umass_chron`.
-* Winter, A man of Chu attacked Zheng :cite:`2007:umass_chron`.
 * Summer, Qu Wan of Chu came to make a covenant with the invading host; the covenant was made at Shao-ling. A man of Qi made prisoner Yuan Tao-hu of Chen :cite:`2007:umass_chron`.
 * Autumn, Lu, Jiang, and Huang attacked Chen :cite:`2007:umass_chron`.
 * ``1-656``: Lu, Qi, Song, Chen, Wei, Zheng, Xu, Cao, attacked Cai. The Cai dispersed; they then invaded Chu, halting at Xin :cite:`2007:umass_chron`.
