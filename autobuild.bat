@@ -1,3 +1,3 @@
 @ECHO OFF
 
-python -m sphinx_autobuild ./source ./build -b html -H 0.0.0.0 -p 8000
+python -m sphinx_autobuild ./source ./build -b html --host 0.0.0.0 --port 8000
